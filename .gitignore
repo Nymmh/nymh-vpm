@@ -1,2 +1,9 @@
-﻿.idea
+.idea
 .vscode
+.preview/
+.preview-tools/
+
+node_modules/
+dist/
+public/index.json
+ci/

@@ -5,7 +5,7 @@
   "author": {
     "email": "nymhavis@gmail.com",
     "name": "Nymh",
-    "url": "https://github.com/Nymmh/nymh-vpm"
+    "url": "https://github.com/Nymmh"
   },
   "description": "Collection of my VPM packages",
   "infoLink": {
@@ -13,7 +13,8 @@
     "text": "View on GitHub"
   },
   "githubRepos": [
-    "Nymmh/vrc-avatar-controller-cleaner"
+    "Nymmh/vrc-avatar-controller-cleaner",
+    "Nymmh/vrc-avatar-settings-manager"
   ],
   "packages": []
 }
